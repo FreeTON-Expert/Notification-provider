@@ -714,6 +714,16 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
+"@tonclient/core@^1.23.0":
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/@tonclient/core/-/core-1.23.0.tgz#64f56e4ddeff334707299c1ad029b1049615f8a3"
+  integrity sha512-KL9XQCjeyF5qnxV2RT/ecVA+nL1SNrR1tcu9yjGvpliB5GhNJxDBpZYh4D00njqo3mHIa9kKSiYz12F9JDhflA==
+
+"@tonclient/lib-node@^1.23.0":
+  version "1.23.0"
+  resolved "https://registry.yarnpkg.com/@tonclient/lib-node/-/lib-node-1.23.0.tgz#5d41e54531f3f98e0dd90ae9da3feb94645b9fbe"
+  integrity sha512-JFBawRi4mno/laDIrwwgCqFKlSAjRT9Vhu9/AaqN/JPzi0Dof+QRXUCT7MQRJ6jKlaQzHxoZ/gyqWorWyLRR4Q==
+
 "@tootallnate/once@1":
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/@tootallnate/once/-/once-1.1.2.tgz#ccb91445360179a04e7fe6aff78c00ffc1eeaf82"
